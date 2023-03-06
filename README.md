@@ -16,7 +16,7 @@ docker-compose exec client sh
 
 1. Install the `ESLint` extension and use `npm run eslint` command to check your code style matches
 
-2. Use aliases, they shorten the path to the desired component or file. You can see how they work, as well as add new ones in `tsconfig.json`
+2. Use aliases, they shorten the path to the desired component or file. You can see how they work, as well as add new ones in `tsconfig.json` and `vite.config.ts`
 
 3. Install the `Stylelint` extension and use `npm run stylelint` command to fix css code
 
